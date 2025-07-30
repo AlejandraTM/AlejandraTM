@@ -12,7 +12,7 @@ I am Alejandra Torres Manotas. I am a mathematician and a dedicated teacher.
 <details>  
 <summary>🧑‍🔬 Reaserch</summary>
     <ul>
-    <li>General homogeneous potential and the Kepler's problem (Celestial Mechanics, Numerical Methods and Python implementation).</li>
+    <li>General homogeneous potential and Kepler's problem (Celestial Mechanics, Numerical Methods and Python implementation).</li>
     <li>Closed stable orbits in a strongly coupled resonant Wilberforce pendulum (Perturbation Theory and Wxmaxima and Python implementation).</li>
     <li>Isochronous center problem (EDO, Complex Analysis and Mathematica implementation)</li>
 </details>
@@ -42,12 +42,7 @@ I am Alejandra Torres Manotas. I am a mathematician and a dedicated teacher.
 
 | **Category** | **Technologies** |
 | - | - |
-**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white'> 
-<img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> 
-<img src='https://img.shields.io/static/v1?label=&message=SageMath&color=1b1ab6&logo=PyG&logoColor=white'> 
-<img src='https://img.shields.io/static/v1?label=&message=R&color=276DC2&logo=r&logoColor=white'> 
-<img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white'> 
-<img src='https://img.shields.io/badge/Julia-8A2BE2&logo=julia&logoColor=white'> 
+**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SageMath&color=1b1ab6&logo=PyG&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=R&color=276DC2&logo=r&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white'><img src='https://img.shields.io/badge/Julia-8A2BE2&logo=julia&logoColor=white'> 
 **Visualization Tools** | <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=404f76&logo=plotly&logoColor=a4a4bb'> <img src='https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=gray'>      
 **Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
   </p>
