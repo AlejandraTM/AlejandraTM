@@ -35,7 +35,6 @@ I am Alejandra Torres Manotas. I am a mathematician and a dedicated teacher.
 
 <hr>
 
-<hr>
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
     <p>
